@@ -14,7 +14,7 @@ This data analysis project examines product injury data published by the US Cons
 </br> 
 
 ## Technical Details
-Data prep was completed using Python in JupyterLab. </br> 
+Data prep was completed using Python in JupyterLab. Data visualization was done in Tableau.</br> 
 
 
 | Tool / Library  | Version |
@@ -22,6 +22,7 @@ Data prep was completed using Python in JupyterLab. </br>
 | Python          | 3.12.2  |
 | JupyterLab      | 4.1.2   |
 | Pandas          | 2.2.0   |
+| Tableau         | 2024.1  |
 
 </br> 
 
