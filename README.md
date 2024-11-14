@@ -32,7 +32,7 @@ Data prep was completed using Python in JupyterLab. Data visualization was done 
 | :----------------------------------------- | :----------------------------------------------------------------------------- |
 | data                                       | Folder containing scrubbed codes and description data                          |
 | code                                       | Jupyter notebooks containing data prep                                         |
-| Product Injury Presentation.pptx           | Project description and findings                                               |
+| Product Injury Presentation.pdf            | Project description and findings, created in PowerPoint, saved in PDF          |
 | Product Injury.twb                         | Tableau workbook containaing analysis                                          |
 | Product Injury.tbwx                        | Tableau packaged workbook containing data and analysis                         |
 
